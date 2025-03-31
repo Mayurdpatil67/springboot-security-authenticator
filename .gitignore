@@ -81,3 +81,49 @@ coverage/
 
 # Local environment variables
 .env
+
+# Gradle wrapper files
+gradle/wrapper/
+gradlew
+gradlew.bat
+
+# Build output directories
+/build/
+/target/
+
+# IDE files
+.idea/
+.vscode/
+.project
+.classpath
+
+# Gradle caches
+.gradle/
+
+# Maven directories
+.mvn/
+*.iml
+
+# Log files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Application configuration files
+application.properties
+application.yml
+*.env
+
+# Lombok cache
+.lombok/
+
+# Generated metadata
+*.jar
+*.war
+*.ear
+
+# JWT image
+jwt-arch.png
