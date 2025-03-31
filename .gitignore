@@ -79,9 +79,6 @@ coverage/
 # Other IDEs
 .vscode/
 
-# Local environment variables
-.env
-
 # Gradle wrapper files
 gradle/wrapper/
 gradlew
@@ -89,8 +86,7 @@ gradlew.bat
 
 # Build output directories
 /build/
-/target/
-
+#/.target/   # Double check if you want to ignore the target directory
 # IDE files
 .idea/
 .vscode/
@@ -124,6 +120,3 @@ application.yml
 *.jar
 *.war
 *.ear
-
-# JWT image
-jwt-arch.png
