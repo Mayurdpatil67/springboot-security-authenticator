@@ -69,3 +69,4 @@ POST /authenticate
 - JWT tokens are generated using a secret key.
 - Token validation ensures users can access protected resources.
 - Passwords are securely stored using BCrypt hashing.
+
