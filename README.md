@@ -1,4 +1,4 @@
-# JWT Authentication with Spring Boot
+# JWT Authentication with Spring Boot 
 
 ## Overview
 
