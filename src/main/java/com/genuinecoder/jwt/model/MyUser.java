@@ -6,7 +6,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
-public class MyUser {
+public class MyUser{
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
