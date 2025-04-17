@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class ContentController {
+public class ContentController{
 
     @Autowired
     private AuthenticationManager authenticationManager;
